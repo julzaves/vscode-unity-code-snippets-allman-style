@@ -1,22 +1,19 @@
 {
-	"name": "unity-code-snippets",
-	"displayName": "Unity Code Snippets",
-	"description": "All snippets you need for Unity3D development",
-	"version": "1.3.0",
+	"name": "unity-code-snippets-allman-style",
+	"displayName": "Unity Code Snippets Allman Style",
+	"description": "All snippets you need for Unity3D development in Allman indentation style",
+	"version": "1.0.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/kleber-swf/vscode-unity-code-snippets"
+		"url": "https://github.com/julzaves/vscode-unity-code-snippets-allman-style"
 	},
 	"author": {
-		"name": "Kleber Silva",
-		"email": "kleber.swf@gmail.com",
-		"url": "http://kleber-swf.com"
+		"name": "Julz Aves"
 	},
 	"bugs": {
-		"url": "https://github.com/kleber-swf/vscode-unity-code-snippets",
-		"email": "kleber.swf@gmail.com"
+		"url": "https://github.com/julzaves/vscode-unity-code-snippets-allman-style"
 	},
-	"publisher": "kleber-swf",
+	"publisher": "julzaves",
 	"engines": {
 		"vscode": "^1.17.0"
 	},
@@ -28,9 +25,10 @@
 		"monobehaviour",
 		"csharp",
 		"gamedev",
-		"snippet"
+		"snippet",
+		"allman"
 	],
-	"homepage": "https://github.com/kleber-swf/vscode-unity-code-snippets",
+	"homepage": "https://github.com/julzaves/vscode-unity-code-snippets-allman-style",
 	"icon": "images/icon.png",
 	"galleryBanner": {
 		"color": "#b5bcca",
